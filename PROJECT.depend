@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716803496 source:e:\1st year  (second sem)\project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<algorithm>
+	<cstdio>
+
